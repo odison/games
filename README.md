@@ -1,10 +1,10 @@
-# Games on GitHub <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
+# Games on GitHub
 
 Below is a list of open source games and game-related projects that can be found on GitHub - old school text adventures, educational games, 8-bit platform games, browser-based games, indie games, GameJam projects, add-ons/maps/hacks/plugins for commercial games, libraries, frameworks, engines, you name it.
 
 #### Contributing
 
-If you'd like to add a repository to the list, please [create an Issue](https://github.com/leereilly/games/issues), or fork this repository and submit a pull request.
+如果你希望在列表中添加资源, please [create an Issue](https://github.com/leereilly/games/issues), or fork this repository and submit a pull request.
 
 Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown), [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
@@ -13,18 +13,18 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 # Table of Contents.
 
 - [Major Companies](#major-companies)
-- [Browser-Based](#user-content-browser-based)
-  - [Boardgame](#user-content-boardgame)
+- [基于浏览器的游戏（browser-based）](#user-content-browser-based)
+  - [桌游（boardgame）](#user-content-boardgame)
   - [Arcade](#user-content-arcade)
   - [FPS](#user-content-fps)
   - [RPG](#user-content-rpg)
   - [MMORPG](#user-content-mmorpg)
   - [Strategy](#user-content-strategy)
-  - [Racing](#user-content-racing)
-  - [Sandbox](#user-content-sandbox)
-  - [Puzzle](#user-content-puzzle)
+  - [竞速（Racing）](#user-content-racing)
+  - [沙盒（SandBox）](#user-content-sandbox)
+  - [解谜（Puzzle）](#user-content-puzzle)
   - [Clicker](#user-content-clicker)
-  - [Others](#user-content-others)
+  - [其它（Others）](#user-content-others)
 - [Native](#user-content-native)
   - [Arcade](#user-content-arcade-1)
   - [FPS](#user-content-fps-1)
@@ -91,11 +91,11 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Chromacore](https://github.com/Murkantilism/game-off-2013) - 2D musical platformer set in a dark, black & white world that progressively becomes more colorful and happy through successful gameplay.
 * [Circus Charlie](https://github.com/eugenioclrc/circushtml5) - HTML5 tribute created in Phaser. [Play it now!](http://eugenioclrc.github.io/circushtml5)
 * [Jolly Jumper](https://github.com/shohan4556/jolly-jumper) - Made in Phaser. [Play it now!](http://shohan4556.github.io/jolly-jumper/)
-* [Clumsy Bird](https://github.com/ellisonleao/clumsy-bird) - Flappy Bird clone in JavaScript using MelonJS. [Play it now!](http://www.varunpant.com/static/resources/CrappyBird/index.html)
+* [Clumsy Bird](https://github.com/ellisonleao/clumsy-bird) - Flappy Bird clone in JavaScript using MelonJS. （推荐）[Play it now!](http://www.varunpant.com/static/resources/CrappyBird/index.html)
 * [Codename Lumberjack](https://github.com/arkeus/Codename-Lumberjack) - Simple flash game written using Actionscript 3.0 and Flixel. [Play it now!](http://projects.iarke.us/codenamelumberjack/)
-* [Coffee Snake](https://github.com/dommmel/coffee-snake) - HTML5 snake game written in coffee script. [Play it now!](http://dommmel.github.com/coffee-snake/)
+* [Coffee Snake](https://github.com/dommmel/coffee-snake) - HTML5 snake game written in coffee script.贪吃蛇游戏 [Play it now!](http://dommmel.github.com/coffee-snake/)
 * [Coil](https://github.com/leereilly/Coil) - HTML5 canvas game where you defeat enemies by wrapping enemies in your trail. [Play it now!](http://hakim.se/experiments/html5/coil/)
-* [Color Quest](https://github.com/redbluegames/game-off-2013) - Infinite runner following a black and white pixel's quest to change into a color pixel. [Play it now!](http://redbluegames.com/game-off-2013/)
+* [Color Quest](https://github.com/redbluegames/game-off-2013) - unity3d开发，挺有意思的一个游戏，推荐！！！Infinite runner following a black and white pixel's quest to change into a color pixel. [Play it now!](http://redbluegames.com/game-off-2013/)
 * [Core Commiter](https://github.com/vladikoff/game-off-2012) - GitHub Game Off 2012 Entry. [Play it now!](http://committer.meteor.com/)
 * [Crappy Bird](https://github.com/varunpant/CrappyBird) - Flappy Bird clone in JavaScript and Canvas2D API. [Play it now!](http://www.varunpant.com/static/resources/CrappyBird/index.html)
 * [Custom Tetris](https://github.com/ondras/custom-tetris) - Play the classic Tetris game the way you like it. [Play it now!](http://ondras.github.io/custom-tetris/)
